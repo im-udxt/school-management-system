@@ -39,7 +39,7 @@ This project is a Python-based command-line application designed to manage vario
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.12.2
 - MySQL server
 - MySQL Connector for Python
 
