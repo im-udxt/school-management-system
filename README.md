@@ -1,4 +1,4 @@
-Sure, here's an updated README including the table descriptions:
+
 
 # School Management System
 
